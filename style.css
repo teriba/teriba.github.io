@@ -1,0 +1,25 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+html {
+    background-color: #fefefe
+}
+
+body {
+    max-width: 650px;
+    margin: 40px auto;
+    padding: 0 10px;
+    font: 18px/1.5 -apple-system,BlinkMacSystemFont,"avenir next",avenir,"Segoe UI","lucida grande","helvetica neue",helvetica,"Fira Sans",roboto,noto,"Droid Sans",cantarell,oxygen,ubuntu,"franklin gothic medium","century gothic","Liberation Sans",sans-serif;
+    color: #444
+}
+
+li {
+    margin-bottom: 1em;
+}
+
+h1,h2,h3 {
+    line-height: 1.2
+}
+
+a:active .del1{
+    color: green;
+}
