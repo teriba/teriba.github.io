@@ -16,10 +16,26 @@ li {
     margin-bottom: 1em;
 }
 
-h1,h2,h3 {
-    line-height: 1.2
+.center{
+    text-align:center;
+}
+
+.red{
+    color:#800;
+}
+
+h1,h2,h3,h4 {
+    line-height: 1.2;
+   
 }
 
 a:active .del1{
     color: green;
+}
+
+
+
+p.heart {
+    text-align:center;
+    color: #800;
 }
